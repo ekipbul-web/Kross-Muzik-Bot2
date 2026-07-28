@@ -1,0 +1,16 @@
+{
+  "name": "kross-muzik-bot-2",
+  "version": "1.2.0",
+  "description": "Kross Müzik Bot² - Gelişmiş Sıra Sistemli Müzik Botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "@discordjs/voice": "^0.18.0",
+    "play-dl": "^1.9.7",
+    "libsodium-wrappers": "^0.7.15",
+    "ffmpeg-static": "^5.2.0"
+  }
+}
