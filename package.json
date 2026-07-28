@@ -1,0 +1,19 @@
+{
+  "name": "kross-muzik-bot-2",
+  "version": "1.9.0",
+  "description": "Kross Müzik Bot² - Kesin Ses Çözümlü Sürüm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "discord.js": "^14.18.0",
+    "distube": "^5.0.3",
+    "@discordjs/voice": "^0.18.0",
+    "@distube/soundcloud": "^2.0.2",
+    "sodium-native": "^4.0.4",
+    "libsodium-wrappers": "^0.7.15",
+    "ffmpeg-static": "^5.2.0"
+  }
+}
